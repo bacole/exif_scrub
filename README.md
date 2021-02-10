@@ -5,8 +5,8 @@ Exif Scrubber is a program for removing exif metadat from JPEG images.
 ## Installation
 
 ```bash
-git clone 
-cd exifscrub
+git clone https://github.com/bacole/exif_scrub
+cd exif_scrub
 make
 ```
 
